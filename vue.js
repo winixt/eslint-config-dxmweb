@@ -1,6 +1,6 @@
 /**
  * eslint 规则 vue
- * 
+ *
  * 包含所有 eslint 规则，以及所有 eslint-plugin-vue 规则
  * 使用 vue-eslint-parser 作为解析器
  * @fixable 表示此配置支持 --fix
@@ -9,7 +9,7 @@
 
 module.exports = {
     extends: [
-        '../index.js'
+        './index.js'
     ],
     parser: 'vue-eslint-parser',
     parserOptions: {
@@ -144,4 +144,4 @@ module.exports = {
         'vue/jsx-uses-vars': 'error'
     }
 
-}
+};

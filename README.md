@@ -1,6 +1,8 @@
 # DXM ESLint 规则
 
 
+[![GitHub issues](https://img.shields.io/github/issues/winixt/eslint-config-dxmweb.svg)](https://github.com/winixt/eslint-config-dxmweb/issues) [![npm package](https://img.shields.io/npm/v/eslint-config-dxmweb.svg)](https://www.npmjs.org/package/eslint-config-dxmweb) [![npm downloads](http://img.shields.io/npm/dm/eslint-config-dxmweb.svg)](https://www.npmjs.org/package/eslint-config-dxmweb)
+
 在线浏览规则描述及示例：https://cloud.tencent.com/developer/section/1135602
 
 
@@ -84,6 +86,10 @@ module.exports = {
 
 
 ## Troubleshootings
+
+### VSCode install eslint
+
+VSCode 对扩展（插件）的支持非常友好，在 VSCode 中使用 eslint 需要 「扩展 > 搜索eslint >  安装」，按照提示重新加载窗口即可以使用
 
 ### 在 VSCode 中使用
 
