@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-dxmweb",
+  "version": "0.0.1",
+  "description": "dxm eslint config",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "dxm",
+    "vue",
+    "js",
+    "eslintrc"
+  ],
+  "author": "winixt",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.1.0",
+    "eslint-plugin-vue": "^4.6.0",
+    "vue-eslint-parser": "^3.1.0"
+  }
+}
