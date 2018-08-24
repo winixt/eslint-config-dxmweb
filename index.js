@@ -600,7 +600,6 @@
                 "ignoreComments": true,
                 "ignoreTrailingComments": true,
                 "ignoreUrls": true,
-                "ignoreStrings": true,
                 "ignoreTemplateLiterals": true,
                 "ignoreRegExpLiterals": true,
             }
