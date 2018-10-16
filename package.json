@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dxmweb",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "dxm eslint config",
   "main": "index.js",
   "directories": {
